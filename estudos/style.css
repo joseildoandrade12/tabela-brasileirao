@@ -60,7 +60,7 @@ nav > a:hover{
 table{
     border-collapse: collapse;
     margin-top: 60px;
-    margin-left: 60px;
+    margin-left: 150px;
     font-size: 1.5em;
     font-family: var(--fonte03);
     font-weight: bold;
@@ -86,24 +86,25 @@ section{
     width: 500px;
     height: 900px;
     position: absolute;
-    top: 30%;
+    top: 23.1%;
     left: 60%;
 }
 
 section > h1{
     font-family: var(--fonte01);
-    font-size: 2em;
+    font-size: 3em;
     font-weight: normal;
     background-color: var(--cor01);
     color: white;
     padding-bottom: -1px;
     text-align: center;
+    padding: 3px;
 }
 
 section > h2{
     font-family: var(--fonte03);
-    font-size: 1.5em;
-    text-align: center;
+    font-size: 1.8em;
+    padding-left: 30px;
     font-weight: normal;
     font-weight: bold;
     padding-top: 10px;
